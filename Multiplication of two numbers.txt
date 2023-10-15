@@ -1,1 +1,5 @@
-Algorithm 
+Step1: Start
+Step2: Get the values of num1 , num2 from the user
+Step3: Compute num3 = num1 * num2 
+Step4: Display num3
+Step5: Stop
